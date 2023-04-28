@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Electron Game Hacking.](https://github.com/TechnoLustMatty/Electron-Game-Hacking-Vampire-Survivors-)
+- 🔭 I’m currently working on [Electron Game Hacking.](https://github.com/TechnoLustMatty/Electron-Game-Hacking-Vampire-Survivors-) and [Reverse Engineering Splinter Cell.](https://github.com/TechnoLustMatty/Reverse-Engineering-Splinter-Cell)
 
 - 🌱 I’m currently expanding my skillset in **reverse engineering, memory editing, and exploitation.**
 
